@@ -345,8 +345,6 @@ oxwm.key.chord({
 -- Commands to run once when OXWM starts
 -- Uncomment and modify these examples, or add your own
 
--- oxwm.autostart("picom")
 oxwm.autostart("xwallpaper --zoom ~/Pictures/alena-aenami-dreamy-1k.jpg")
 oxwm.autostart("alacritty")
 -- oxwm.autostart("dunst")
--- oxwm.autostart("nm-applet")
